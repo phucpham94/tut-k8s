@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/phucpham/Desktop/doker-compose/kubernetes/10_master","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
